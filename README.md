@@ -10,5 +10,10 @@ manually write doc(docx) by Word XML 2003
 
 ## Doing :
 
+  * 将章节标题的的背景样式改为绿盟的样式
+  * 去除表格中的纵向边框
+  * 不同级别的标题需要显示不同样式
+  * 去掉多余回车
+  * 表格单元格内，图标和文字对齐（段落，居中）参考：http://jingyan.baidu.com/article/454316ab55017cf7a6c03a70.html
   * Table in Table Style
   * <del>muti-line Table TD Style</del>
